@@ -38,9 +38,13 @@ This system can demonstrate:
 ---
 
 ## 🌍 Live Demo
-✅ Fully deployed AI system:  
-👉 https://agri-sense-ai--mandybanele3.replit.app
+🌍 **Live Demo:**
 
+✅ Main Application  
+👉 https://agri-sense-ai--mandybanele3.replit.app  
+
+♿ Accessible Version (Inclusive Design for visually impaired users)  
+👉 https://agri-sense-ai--Chosen03.replit.app  
 ---
 
 ## 📸 Dashboard Preview
