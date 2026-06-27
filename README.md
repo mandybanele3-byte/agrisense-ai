@@ -117,9 +117,7 @@ streamlit run app.py
 
 Deployed on Replit:
 
-https://48b73bed-8af0-4a0f-8810-ba633c5dfafc-00-2ezosiul8q8fm.pike.replit.dev/login
-
----
+https://agri-sense-ai--banelemandy2.replit.app/
 
 ## Future Improvements
 
