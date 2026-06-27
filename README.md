@@ -44,8 +44,8 @@ This system can demonstrate:
 ---
 
 ## 📸 Dashboard Preview
-*(Add your screensho<img width="1889" height="966" alt="image" src="https://github.com/user-attachments/assets/20542577-d183-41d6-9355-ba0ae385d2bd" />
-t here after uploading image)*
+<img width="1889" height="966" alt="image" src="https://github.com/user-attachments/assets/20542577-d183-41d6-9355-ba0ae385d2bd" />
+
 
 ---
 
