@@ -1,31 +1,65 @@
-# 🌱 AgriSense AI
+# 🌱 AgriSense AI – Smart Irrigation System
 
 ## 📌 Overview
-AgriSense AI is a smart irrigation system designed for UAE agriculture.  
-It uses machine learning to predict irrigation needs and optimize water usage.
+AgriSense AI is an intelligent smart farming system designed for UAE agriculture.  
+It uses machine learning to analyze environmental and soil conditions and predict irrigation needs, helping farmers optimize water usage and improve crop health.
 
 ---
 
 ## 🚀 Features
-- 🤖 AI irrigation prediction
-- 📊 1000+ realistic dataset
-- 🌡 Environmental analysis
-- 📅 7-day farm health timeline
-- 🔔 Smart alerts system
-- 🌐 Bilingual support (English / Arabic)
+- 🤖 AI-powered irrigation predictions
+- 📊 1,000+ realistic agricultural dataset
+- 🌡 Environmental & soil monitoring
+- 📅 7-day Farm Health Timeline
+- 🔔 Smart irrigation alerts system
+- 💧 Water usage optimization
+- 🌐 Bilingual support (English / العربية)
 
 ---
 
-## 🛠 Technologies
+## 📊 System Capabilities
+This system can demonstrate:
+
+- 📈 Water usage trends
+- 🌱 Crop health monitoring
+- 🤖 AI decision-making
+- 🔔 Smart alerts & notifications
+- 🌦 Weather impact analysis
+- 📍 Farm comparison insights
+
+---
+
+## 🛠 Technologies Used
 - Python
-- Streamlit
-- Machine Learning (Random Forest)
-- Pandas / NumPy
+- Streamlit (Interactive Dashboard)
+- Scikit-learn (Machine Learning)
+- Pandas & NumPy (Data Processing)
 
 ---
 
-## ▶️ Run the Project
+## 🌍 Live Demo
+✅ Fully deployed AI system:  
+👉 https://agri-sense-ai--mandybanele3.replit.app
 
+---
+
+## 📸 Dashboard Preview
+*(Add your screensho<img width="1889" height="966" alt="image" src="https://github.com/user-attachments/assets/20542577-d183-41d6-9355-ba0ae385d2bd" />
+t here after uploading image)*
+
+---
+
+## ▶️ Run Locally
+
+1. Install dependencies:
 ```bash
 pip install -r requirements.txt
+
+
+## ▶️ Run Locally
 streamlit run dashboard.py
+
+---
+
+## 👨‍💻 Author
+Banele Mandy Ndiweni
