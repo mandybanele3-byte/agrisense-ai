@@ -1,69 +1,145 @@
-# 🌱 AgriSense AI – Smart Irrigation System
+# 🌱 AgriSense AI – Smart Agriculture for the UAE
 
-## 📌 Overview
-AgriSense AI is an intelligent smart farming system designed for UAE agriculture.  
-It uses machine learning to analyze environmental and soil conditions and predict irrigation needs, helping farmers optimize water usage and improve crop health.
+## Overview
 
----
+AgriSense AI is a low-code smart agriculture application designed to help farmers in the United Arab Emirates make better irrigation decisions using Artificial Intelligence. The system analyzes environmental and sensor data to recommend when crops should be watered, helping reduce water waste and improve crop health.
 
-## 🚀 Features
-- 🤖 AI-powered irrigation predictions
-- 📊 1,000+ realistic agricultural dataset
-- 🌡 Environmental & soil monitoring
-- 📅 7-day Farm Health Timeline
-- 🔔 Smart irrigation alerts system
-- 💧 Water usage optimization
-- 🌐 Bilingual support (English / العربية)
+This project was developed as part of the Decoding Data Science AI Challenge.
 
 ---
 
-## 📊 System Capabilities
-This system can demonstrate:
+## Problem Statement
 
-- 📈 Water usage trends
-- 🌱 Crop health monitoring
-- 🤖 AI decision-making
-- 🔔 Smart alerts & notifications
-- 🌦 Weather impact analysis
-- 📍 Farm comparison insights
+The UAE experiences extremely high temperatures and limited freshwater resources. Traditional irrigation methods often waste water or fail to provide crops with the right amount of irrigation.
+
+AgriSense AI addresses this challenge by providing AI-powered irrigation recommendations based on real-time agricultural data.
 
 ---
 
-## 🛠 Technologies Used
+## Features
+
+- 🔐 Secure Login System
+- 📊 Interactive Dashboard
+- 🤖 AI Irrigation Prediction
+- 📈 Analytics and Charts
+- 💧 Soil Moisture Monitoring
+- 🌡 Temperature and Humidity Tracking
+- 🔔 Smart Irrigation Notifications
+- 🌍 UAE-focused Smart Agriculture
+- 🌐 English and Arabic Support (Planned)
+
+---
+
+## Dataset
+
+The application uses a dataset containing over **1,000 agricultural records** including:
+
+- Soil Moisture
+- Temperature
+- Humidity
+- Crop Type
+- Farm Location
+- Irrigation Status
+- Water Usage
+
+The dataset was created to simulate real agricultural conditions in the UAE.
+
+---
+
+## Technologies Used
+
 - Python
-- Streamlit (Interactive Dashboard)
-- Scikit-learn (Machine Learning)
-- Pandas & NumPy (Data Processing)
+- Streamlit
+- Pandas
+- NumPy
+- Scikit-learn
+- Plotly
+- Replit
+- GitHub
 
 ---
 
-## 🌍 Live Demo
-🌍 **Live Demo:**
+## AI Model
 
-✅ Main Application  
-👉 https://agri-sense-ai--mandybanele3.replit.app  
+The AI model analyzes sensor data and predicts whether irrigation is required.
 
-♿ Accessible Version (Inclusive Design for visually impaired users)  
-👉 https://agri-sense-ai--Chosen03.replit.app  
+Input features include:
+
+- Soil Moisture
+- Temperature
+- Humidity
+- Crop Type
+
+Output:
+
+- Irrigation Needed (Yes/No)
+
 ---
 
-## 📸 Dashboard Preview
-<img width="1889" height="966" alt="image" src="https://github.com/user-attachments/assets/20542577-d183-41d6-9355-ba0ae385d2bd" />
+## Project Structure
 
+```
+AgriSense-AI/
+│
+├── app.py
+├── dashboard.py
+├── agrisense_ai.py
+├── irrigation_dataset.csv
+├── requirements.txt
+└── README.md
+```
 
 ---
 
-## ▶️ Run Locally
+## Installation
 
-1. Install dependencies:
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/agrisense-ai.git
+```
+
+Install dependencies:
+
 ```bash
 pip install -r requirements.txt
+```
 
+Run the application:
 
-## ▶️ Run Locally
-streamlit run dashboard.py
+```bash
+streamlit run app.py
+```
 
 ---
 
-## 👨‍💻 Author
-Banele Mandy Ndiweni
+## Live Demo
+
+Deployed on Replit:
+
+https://48b73bed-8af0-4a0f-8810-ba633c5dfafc-00-2ezosiul8q8fm.pike.replit.dev/login
+
+---
+
+## Future Improvements
+
+- Live IoT sensor integration
+- SMS and Email Alerts
+- Mobile Application
+- Weather API Integration
+- Satellite Monitoring
+- Multi-language Support
+
+---
+
+## Author
+
+**Mandy Banele**
+
+Developed for the **Decoding Data Science AI Challenge 2026**.
+
+---
+
+## License
+
+This project is developed for educational and demonstration purposes.
